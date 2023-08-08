@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "2968139279",
+    "project_id": "gogo-inc",
+    "storage_bucket": "gogo-inc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2968139279:android:f75de16854369aad7ed57a",
+        "android_client_info": {
+          "package_name": "com.gogoinc.blackcloverwallpaperhd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2968139279-m3h4bpt198da8afqamevvurm6temu5qf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCABvcs3OAcpXu6apuFx8VCtrpGW_iS8sI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2968139279-m3h4bpt198da8afqamevvurm6temu5qf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
